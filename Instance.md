@@ -1,0 +1,23 @@
+Instances control the devices. Each Instance has a specific scheduler type. Instances can have multiple devices asigned to it.
+
+# Create a new Instance
+- Open RDM in the Webbrowser and login as admin
+- Go to Dashboard -> Instances and click "Add New Instance"
+  - Name: A unique name of the Instance
+  - Scheduler Type:
+     - Circle Pokemon: Scanns for Pokemon (Nearby) at exactly the coords specified 
+     - Circle Pokemon: Scanns for Raids at exactly the coords specified 
+  - Scan Area: <br>
+     - For Circle Scheduler:<br>
+       A list of coords to scann (it will scann a circle with radius 750m around these coords)
+       Example: 
+```
+10.0,10.0
+11.0,11.0
+...
+ ``` 
+- Save the Instance
+- Start the Device Controler for that device one
+- Go to Dashboard -> Devices and click "Asign Instance" for that new device
+- Select the instance and click "Asign"
+- Your device should now start scanning
