@@ -15,7 +15,7 @@ The follwing guide applise for RDM and can be installed everywhere (any OS that 
   - TODO
 - Start the Database Server (if you chose to use a new one): `docker-compose up -d db`
 - Start the RealDeviceMap Server (don't add `-d` the first time so we can get the token): `docker-compose up rdm`
-- Visit http://localhost:9001 and create an admin account with the access-token you see in the output of that command
+- Visit http://localhost:9000 and create an admin account with the access-token you see in the output of that command
 - The map will start at 0,0 (blue ocean)
 - Click Dashboard -> Settings and edit the start location
 - RDM is now running on your system 🍻 
