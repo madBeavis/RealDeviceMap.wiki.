@@ -19,6 +19,7 @@ The follwing guide applise for RDM and can be installed everywhere (any OS that 
 - The map will start at 0,0 (blue ocean)
 - Click Dashboard -> Settings and edit the start location
 - RDM is now running on your system 🍻 
+- (you can now press Ctrl-C to stop in attached mode and start it again with `docker-compose up -d rdm`
 
 
 ### Continue with the Installation of one of the compatible RDM-API Device Controllers
