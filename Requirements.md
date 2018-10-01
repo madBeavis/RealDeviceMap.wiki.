@@ -4,3 +4,6 @@ Requirements for RealDeviceMap
   Currently available RDM-API device controller: 
   -  [[RealDeviceMap-UIControl|https://github.com/123FLO321/RealDeviceMap-UIControl]]
      - requires a Jailbroken iOS Device with Poke++
+
+Note: 
+RealDeviceMap can run everywhere and doesn't need to run on Mac. It doesn't even need to run in the same network. So you can run RDM on a VPN or similar.
