@@ -9,7 +9,8 @@ Instances control the devices. Each Instance has a specific scheduler type. Inst
      - Circle Pokemon: Scanns for Raids at exactly the coords specified 
   - Scan Area: <br>
      - For Circle Scheduler:<br>
-       A list of coords to scann (it will scann a circle with radius 750m around these coords)
+       A list of coords to scann (it will scann a circle with radius 750m around these coords) <br>
+       Use [[this tool|https://www.mapdevelopers.com/draw-circle-tool.php]] to layout circles.
        Example: 
 ```
 10.0,10.0
