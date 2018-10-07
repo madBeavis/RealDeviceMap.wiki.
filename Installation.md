@@ -26,7 +26,7 @@ The follwing guide applise for RDM and can be installed everywhere (any OS that 
 - find the volume name: `docker volume ls` (usually named `rdm_image` or `realdevicemap_image`)
 - find it's "Mountpoint" `docker volume inspect rdm_images`
 - add images to egg, gym, pokemon, pokestop and unkown_egg in there <br>
-  example images can be found [[here|https://cdn.discordapp.com/attachments/473886293647163412/496422771656622091/example_images.zip]] (extract all contents from example images into the volume path) (Icons by [[Icons8|https://icons8.com/]])
+  example images can be found [[here|https://cdn.discordapp.com/attachments/473886293647163412/498616112448012298/example_images.zip]] (extract all contents from example images into the volume path) (Icons by [[Icons8|https://icons8.com/]])
 - restart rdm to create raid images (`docker-compose down && docker-compose up -d` from the compose/rdm folder)
 
 ## On MacOS
@@ -36,7 +36,7 @@ change `images:/perfect-deployed/realdevicemap/resources/webroot/static/img` <br
 to `- /absolut/path/to/images:/perfect-deployed/realdevicemap/resources/webroot/static/img`
 - go to that folder (e.g.: `/absolut/path/to/images`) 
 - add images to egg, gym, pokemon, pokestop and unkown_egg in there <br>
-  example images can be found [[here|https://cdn.discordapp.com/attachments/473886293647163412/496422771656622091/example_images.zip]] (extract all contents from example images into the volume path) (Icons by [[Icons8|https://icons8.com/]])
+  example images can be found [[here|https://cdn.discordapp.com/attachments/473886293647163412/498616112448012298/example_images.zip]] (extract all contents from example images into the volume path) (Icons by [[Icons8|https://icons8.com/]])
 - restart rdm to create raid images (`docker-compose down && docker-compose up -d` from the compose/rdm folder)
 
 ## On Windows
