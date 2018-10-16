@@ -9,5 +9,5 @@ Welcome to the RealDeviceMap wiki!
 - [[Groups]]
 - [[Updating]]
 
-# API-API
+# RDM-API
 - [[Device Controller API]]]
