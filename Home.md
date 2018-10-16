@@ -10,4 +10,5 @@ Welcome to the RealDeviceMap wiki!
 - [[Updating]]
 
 # RDM-API
-- [[Device Controller API]]]
+- [[Protobuf API]]
+- [[Device Controller API]]
