@@ -1,4 +1,4 @@
-The RDM Device Controller allows Phones (Device Controllers) to interact with RDM.
+The RDM Device Controller API allows Phones (Device Controllers) to interact with RDM.
 This allows RDM to control the phones.
 
 The Device Controller API bas url is `RDM_IP:9001/controler` and accepts `POST REQUESTS` at that url.
