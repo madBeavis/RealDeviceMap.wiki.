@@ -25,6 +25,7 @@ The Device Controller API bas url is `RDM_IP:9001/raw` and accepts `POST REQUEST
   "status": (The status of the request: "ok" or "error")
   "error": (Only set it status = error, contains error information)
 }
+```
 
 ## Format 
 
