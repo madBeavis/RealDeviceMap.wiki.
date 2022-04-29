@@ -6,5 +6,6 @@ This documentation covers the setup and configuration of RealDeviceMap (RDM).
 - [Installation](2.-Installation)
 - [Map Images](3.-Map-Images)
 - [Updating](4.-Updating)
-- [API Calls](5.-API-Calls)
-- [FAQ](6.-FAQ)
+- [Dashboard](5.-Dashboard)
+- [API Calls](6.-API-Calls)
+- [FAQ](7.-FAQ)
